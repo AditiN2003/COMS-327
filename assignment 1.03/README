@@ -1,0 +1,2 @@
+This is a program that allows two different kinds of trainers - hikers and rivals -  find the shortest path to the PC so they can engage in a Pokemon battle. 
+To accomplish this task, I modified the Dijkstra's algoristhem from the rode building code. 
