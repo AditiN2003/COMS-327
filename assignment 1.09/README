@@ -1,0 +1,7 @@
+This program allowd the user to engage in Pokemon battles between two trainers. The user can pick between 4 options: fight, bag, run, pokemon.
+ Fight allows the user to choose moves. 
+ Bag allows the user to view and use the supplies. 
+ Run allows the user to escape but the PC can only run from wild pokemons. 
+ And pokemon allows user to switch to a different pokemon.
+
+ Everything works fine. NOTE: After picking an option, you must go back to map and choose again.
