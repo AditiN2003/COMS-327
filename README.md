@@ -1,6 +1,6 @@
-# Disclaimer
+# Introduction
 
-Welcome to my Pokemon Game! This is a rogue-like text-based game written in C and C++, heavily inspired by the Pokemon franchise. Players will embark on an adventure, capturing and battling creatures in a procedurally generated world.
+Welcome to my Pokemon Game! This is a rogue-like text-based game written in C and C++, heavily inspired by the Pokemon franchise. Players will embark on an adventure, capturing and battling creatures in a procedurally generated world. This was written for my COMS 327 class at Iowa State University. 
 
 ## Table of Contents
 
